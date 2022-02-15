@@ -1,0 +1,14 @@
+C:\Users\vasge\Desktop\Курсовая работа\CursWork\CursWork\bin\Debug\CursWork.exe.config
+C:\Users\vasge\Desktop\Курсовая работа\CursWork\CursWork\bin\Debug\CursWork.exe
+C:\Users\vasge\Desktop\Курсовая работа\CursWork\CursWork\bin\Debug\CursWork.pdb
+C:\Users\vasge\Desktop\Курсовая работа\CursWork\CursWork\obj\Debug\CursWork.csproj.AssemblyReference.cache
+C:\Users\vasge\Desktop\Курсовая работа\CursWork\CursWork\obj\Debug\CursWork.csproj.SuggestedBindingRedirects.cache
+C:\Users\vasge\Desktop\Курсовая работа\CursWork\CursWork\obj\Debug\CursWork.Properties.Resources.resources
+C:\Users\vasge\Desktop\Курсовая работа\CursWork\CursWork\obj\Debug\CursWork.csproj.GenerateResource.cache
+C:\Users\vasge\Desktop\Курсовая работа\CursWork\CursWork\obj\Debug\CursWork.csproj.CoreCompileInputs.cache
+C:\Users\vasge\Desktop\Курсовая работа\CursWork\CursWork\obj\Debug\CursWork.exe
+C:\Users\vasge\Desktop\Курсовая работа\CursWork\CursWork\obj\Debug\CursWork.pdb
+C:\Users\vasge\Desktop\Курсовая работа\CursWork\CursWork\obj\Debug\CursWork.CursWork.resources
+C:\Users\vasge\Desktop\Курсовая работа\CursWork\CursWork\obj\Debug\CursWork.InstructionTestForm.resources
+C:\Users\vasge\Desktop\Курсовая работа\CursWork\CursWork\obj\Debug\CursWork.TheoryForm.resources
+C:\Users\vasge\Desktop\Курсовая работа\CursWork\CursWork\obj\Debug\CursWork.TestForm.resources
